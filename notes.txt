@@ -1,0 +1,14 @@
+Python is a programming language.
+Python is easy to learn.
+File handling is an important concept.
+We can create files using Python.
+We can read data from files.
+We can write data into files.
+We can append new data to files.
+Python supports different file modes.
+The read mode is represented by r.
+The write mode is represented by w.
+We can use the append mode to add new content.
+The append mode is represented by a.
+The close method closes an opened file.
+With open automatically closes the file.
